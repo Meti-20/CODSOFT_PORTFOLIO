@@ -1,0 +1,38 @@
+.resume-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .resume-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .resume-section p {
+    margin-bottom: 20px;
+  }
+  
+  .resume-section button {
+    padding: 10px 20px;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .resume-section button:hover {
+    background-color: #45a049;
+  }
+  
+  .resume-preview {
+    margin-top: 20px;
+  }
+  
+  .resume-preview img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
